@@ -2,10 +2,6 @@
 
 Food Eazy, is an online platform to order food and avoiding the hassle of going out or paying in cash. The users can opt for home delivery or take away as per thier choice and can pay thorugh cash or online methods (PayTM). In the times of COVID-19 where social distancing is such an important measure we think our website can help restaurants and customers.
 
-**Project Link** - ***https://foodeazy.herokuapp.com/***
-**Or**  - ***http://foodeazy.devforlife07.codes/***
-
-
 ## Features and Functionalities 😃
 **User features**
  - User sign up and login
@@ -77,16 +73,5 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
    
    
  **4.** **🎉  Open your browser and go to  `https://localhost:3000`**
- 
-## Contributors 🤝
- - [**Mihir Gupta**](https://github.com/mihir0699)  
- - [**Devansh Gera**](https://github.com/Devforlife07)
- 
- 
-## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
- 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 
